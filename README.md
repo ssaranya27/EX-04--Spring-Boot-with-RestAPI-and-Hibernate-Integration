@@ -105,14 +105,9 @@ public class MovieController {
 
 ## Output:
 
-<img width="1920" height="1080" alt="Screenshot (820)" src="https://github.com/user-attachments/assets/6caf1d13-b630-470d-b6cd-93d4b8b00524" />
+<img width="1920" height="1080" alt="Screenshot (831)" src="https://github.com/user-attachments/assets/dba55d00-cde2-45b2-9dd7-53af7a8ae3fa" />
 
-<img width="1920" height="1080" alt="Screenshot (821)" src="https://github.com/user-attachments/assets/7fbe3670-020c-45cf-bbb7-7ec3ca0f7bce" />
+<img width="1920" height="1080" alt="Screenshot (834)" src="https://github.com/user-attachments/assets/5718fba0-11bf-44db-a0e8-f61ffd92b153" />
 
-<img width="1920" height="1080" alt="Screenshot (824)" src="https://github.com/user-attachments/assets/0d85c507-e118-414d-b9cd-efe880d85271" />
-
-<img width="1920" height="1080" alt="Screenshot (825)" src="https://github.com/user-attachments/assets/10eb012b-4b8b-4114-804b-04ad07ab4834" />
-
-<img width="1920" height="1080" alt="Screenshot (826)" src="https://github.com/user-attachments/assets/668124be-13e3-4265-bdb2-318e280cc15b" />
-
+<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/3d06bbc1-1d14-440c-b3e7-5479986617ea" />
 
